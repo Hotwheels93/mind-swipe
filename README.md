@@ -14,5 +14,8 @@ To gain more attention try to do some math calculations by your brain or try to 
 
 Attention: Script requires the NeuroSky Library for Python to work The author does not represent Neurosky, wheter TikTok or Instagram
 
+See mindwave-python repo of BarkleyUS: https://github.com/BarkleyUS/mindwave-python
+
+
 This software is not intended to be used in medical diagnostics or medical treatment, but can be seen as a primitive PoC for a simple BCI.
 
